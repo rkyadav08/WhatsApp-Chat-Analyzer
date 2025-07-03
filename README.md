@@ -33,13 +33,13 @@ A **Streamlit** web app to analyze WhatsApp chat exports with insights like:
 
 ## 📁 Project Structure
 
-
+```
 ├── app.py                # Main Streamlit app
 ├── helper.py             # Logic for statistics, charts, emojis, etc.
 ├── preprocessor.py       # WhatsApp chat text to clean DataFrame
 ├── stop_hinglish.txt     # Custom stopwords file
 ├── Procfile              # For deployment (e.g., on Heroku)
-
+```
 
 ## 🧪 How to Use
 
